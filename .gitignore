@@ -1,0 +1,27 @@
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Lean
+build/
+lake-packages/
+.lake/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+
+# Results (large files, tracked separately)
+results/
