@@ -1,0 +1,12 @@
+[submodule "benchmarks/minif2f"]
+	path = benchmarks/minif2f
+	url = https://github.com/yangky11/miniF2F-lean4
+[submodule "benchmarks/putnambench"]
+	path = benchmarks/putnambench
+	url = https://github.com/trishullab/PutnamBench
+[submodule "benchmarks/formalqualbench"]
+	path = benchmarks/formalqualbench
+	url = https://github.com/math-inc/FormalQualBench
+[submodule "benchmarks/formalmath"]
+	path = benchmarks/formalmath
+	url = https://github.com/Sphere-AI-Lab/FormalMATH-Bench
